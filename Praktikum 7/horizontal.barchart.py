@@ -124,4 +124,4 @@ else:
     ax6.set_ylabel('Brands')
     ax6.grid(axis='x', linestyle='--', alpha=0.6)
     ax6.legend()
-    st.pyplot(fig6)
+    st.pyplot(fig6) 
